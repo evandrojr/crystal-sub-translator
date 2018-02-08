@@ -1,0 +1,20 @@
+name: crystal-sub-translator
+version: 0.1.0
+
+authors:
+  - Evandro Junior <evandrojr@gmail.com>
+
+targets:
+  crystal-sub-translator:
+    main: src/crystal-sub-translator.cr
+
+dependencies:
+  cossack:
+    github: crystal-community/cossack
+  google_translate:
+    github: evandrojr/crystal-google_translate
+
+
+crystal: 0.24.1
+
+license: MIT

@@ -1,0 +1,10 @@
+version: 1.0
+shards:
+  cossack:
+    github: crystal-community/cossack
+    version: 0.1.4
+
+  google_translate:
+    github: evandrojr/crystal-google_translate
+    version: 0.2.1
+
